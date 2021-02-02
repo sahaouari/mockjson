@@ -1,0 +1,48 @@
+[
+  {
+    "popularCourses": [
+      {
+        "totalLesson": "25 lessons", 
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course1.png", 
+        "name": "Learn Basic C Programing"
+      }, 
+      {
+        "totalLesson": "15 lessons", 
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course2.png", 
+        "name": "Learn Java from scratch"
+      }, 
+      {
+        "totalLesson": "10 lessons", 
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course3.png", 
+        "name": "Learn C sharp Programing basics"
+      }, 
+      {
+        "totalLesson": "35 lessons", 
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course4.png", 
+        "name": "Learn Python Level 1"
+      }
+    ], 
+    "courseForYou": [
+      {
+        "totalLesson": "20 lessons", 
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course4.png", 
+        "name": "Learn C programing laguage using DevC++"
+      }, 
+      {
+        "totalLesson": "9 lessons", 
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course3.png", 
+        "name": "Java Programing Language Using Netbeans"
+      }, 
+      {
+        "totalLesson": "5 lessons", 
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course2.png", 
+        "name": "Basics of Programing and logical Thinking"
+      }, 
+      {
+        "totalLesson": "17 lessons", 
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course1.png", 
+        "name": "Build your first Android Application"
+      }
+    ]
+  }
+]
